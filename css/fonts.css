@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Rufina';
+    src: url('../fonts/Rufina-Regular/Rufina-Regular.eot');
+    src: url('../fonts/Rufina-Regular/Rufina-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Rufina-Regular/Rufina-Regular.woff2') format('woff2'),
+    url('../fonts/Rufina-Regular/Rufina-Regular.woff') format('woff'),
+    url('../fonts/Rufina-Regular/Rufina-Regular.ttf') format('truetype'),
+    url('../fonts/Rufina-Regular/Rufina-Regular.svg#Rufina-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rufina';
+    src: url('../fonts/Rufina-Bold/Rufina-Bold.eot');
+    src: url('../fonts/Rufina-Bold/Rufina-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Rufina-Bold/Rufina-Bold.woff2') format('woff2'),
+    url('../fonts/Rufina-Bold/Rufina-Bold.woff') format('woff'),
+    url('../fonts/Rufina-Bold/Rufina-Bold.ttf') format('truetype'),
+    url('../fonts/Rufina-Bold/Rufina-Bold.svg#Rufina-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Bold/Lato-Bold.eot');
+    src: url('../fonts/Lato-Bold/Lato-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Lato-Bold/Lato-Bold.woff2') format('woff2'),
+    url('../fonts/Lato-Bold/Lato-Bold.woff') format('woff'),
+    url('../fonts/Lato-Bold/Lato-Bold.ttf') format('truetype'),
+    url('../fonts/Lato-Bold/Lato-Bold.svg#Lato-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-BoldItalic/Lato-BoldItalic.eot');
+    src: url('../fonts/Lato-BoldItalic/Lato-BoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Lato-BoldItalic/Lato-BoldItalic.woff2') format('woff2'),
+    url('../fonts/Lato-BoldItalic/Lato-BoldItalic.woff') format('woff'),
+    url('../fonts/Lato-BoldItalic/Lato-BoldItalic.ttf') format('truetype'),
+    url('../fonts/Lato-BoldItalic/Lato-BoldItalic.svg#Lato-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Regular/Lato-Regular.eot');
+    src: url('../fonts/Lato-Regular/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Lato-Regular/Lato-Regular.woff2') format('woff2'),
+    url('../fonts/Lato-Regular/Lato-Regular.woff') format('woff'),
+    url('../fonts/Lato-Regular/Lato-Regular.ttf') format('truetype'),
+    url('../fonts/Lato-Regular/Lato-Regular.svg#Lato-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../icons/icomoon.eot?k71kli');
+    src:  url('../icons/icomoon.eot?k71kli#iefix') format('embedded-opentype'),
+    url('../icons/icomoon.ttf?k71kli') format('truetype'),
+    url('../icons/icomoon.woff?k71kli') format('woff'),
+    url('../icons/icomoon.svg?k71kli#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+
